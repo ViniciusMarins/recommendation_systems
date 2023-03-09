@@ -1,2 +1,2 @@
-# Gerenciamento_de_eventos
-Projeto desenvolvido em python utilizando o framework Flask
+# Material de estudo sobre Sistemas de Recomendação
+
